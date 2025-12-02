@@ -1,6 +1,5 @@
 # 🚀 Pathway Real-Time AI Pipeline — Hackathon Project
 
-🔗 **Live Demo:** https://live-data-pipe.preview.emergentagent.com/  
 📦 **GitHub Repo:** https://github.com/9SERG4NT/Pathway_Hackathon  
 🏆 **Submission for Pathway Hackathon 2025**
 
